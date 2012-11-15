@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string-array name="EquitiesChapters">
+        <item>Introduction to Equities</item>
+        <item>Features of Equities</item>
+        <item>Equities 3</item>
+        <item>Equities 4</item>
+        <item>Equities 5</item>
+    </string-array>
+</resources>

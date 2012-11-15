@@ -51,6 +51,10 @@
     <plugin name="SplashScreen" value="org.apache.cordova.SplashScreen"/>
     <plugin name="Echo" value="org.apache.cordova.Echo" />
     <plugin name="Globalization" value="org.apache.cordova.Globalization"/>
+    <plugin name="com.phonegap.menu.toolbar"         value="com.phonegap.menu.AppMenu" />
+    <plugin name="com.phonegap.menu.toolbar.command" value="com.phonegap.menu.AppMenuItem" />
+    <plugin name="com.phonegap.menu.context"         value="com.phonegap.menu.AppMenu" />
+    <plugin name="com.phonegap.menu.context.command" value="com.phonegap.menu.AppMenuItem" />
 </plugins>
 </cordova>
 

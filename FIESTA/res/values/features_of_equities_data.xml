@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string-array name="FeaturesOfEquities">
+        <item>Relationship between shareholders and company</item>
+        <item>Characteristics of shares</item>
+    </string-array>
+    
+    <string name="RelationshipBetweenShareholdersAndCompany"> Shareholders carry the full risk and reward of the company. If a company does well, its shareholders will do well. However, if the company does badly, it is the shareholders that suffer.</string>
+    
+    <string name="CharacteristicsOfShares">
+        ""Dividends \n 
+		Capital Gains\n 
+		Shareholder Benefits\n 
+		Right to Subscribe for New Shares\n 
+		Voting Rights"
+    </string>
+    
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="topics">
+        <item>Equities</item>
+        <item>Bonds</item>
+	    <item>Trade Processing</item>
+	    <item>Corporate Events Processing</item>
+	    <item>Custodian Services Processing</item>
+    </string-array>
+</resources>

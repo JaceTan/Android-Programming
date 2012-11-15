@@ -1,4 +1,4 @@
-package com.flyingjuices.fiesta;
+package com.flyingjuices.fiestaequities;
 
 import android.os.Bundle;
 import android.app.TabActivity;
@@ -9,6 +9,7 @@ import android.widget.TabHost.TabSpec;
 
 @SuppressWarnings("deprecation")
 public class MainActivity extends TabActivity {
+
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -54,5 +55,4 @@ public class MainActivity extends TabActivity {
         getMenuInflater().inflate(R.menu.activity_main, menu);
         return true;
     }
-   
 }

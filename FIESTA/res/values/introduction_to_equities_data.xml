@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string-array name="IntroductionToEquities">
+        <item>What is Equity?</item>
+        <item>What is Equity Investment?</item>
+        <item>Alternative Names for Equity</item>
+    </string-array>
+    
+    <string name="WhatIsEquity">Equity is a term commonly used to describe the share capital of a business.</string>
+    <string name="WhatIsEquityInvestment">An equity investment generally refers to holding a share in the ownership of a company. If you purchase equities, you are a shareholder of the company.</string>
+    <string name="AlternativeNamesForEquity">Equities can also be called "shares" or "stocks", they all mean the same thing.</string>
+</resources>
